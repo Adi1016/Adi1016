@@ -22,18 +22,18 @@
 </p>
 
 - 👀 I’m interested in **3D modeling, game development, and animation**
-- 🌱 I’m currently learning **Unity, Blender, and MERN stack**
+- 🌱 I’m currently learning **Unity, Blender, and C#**
 - 💞️ I’m looking to collaborate on **game development projects and creative 3D animations**
-- 📫 How to reach me **adi1016@example.com**
+- 📫 How to reach me **adisharma1083@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I can name all the characters in every game I have played**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adi1016" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="adi1016" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adi1016" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="adi1016" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/adi1016" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="adi1016" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/adi1016" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="adi1016" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="adi1016" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="adi1016" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="adi1016" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="adi1016" height="30" width="40" /></a>
 </p>
 
 <p align="center">
