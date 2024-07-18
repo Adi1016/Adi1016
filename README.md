@@ -2,23 +2,9 @@
 <h3 align="center">A passionate 3D artist and game developer</h3>
 
 <p align="center">
-  <div class="sketchfab-embed-wrapper">
-    <iframe title="Animated Playing Cards (Read Below)" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/76be59774ffe4576a36c1b6a5399b3fe/embed">
-    </iframe>
-    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-      <a href="https://sketchfab.com/3d-models/animated-playing-cards-read-below-76be59774ffe4576a36c1b6a5399b3fe?utm_medium=embed&utm_campaign=share-popup&utm_content=76be59774ffe4576a36c1b6a5399b3fe" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">
-        Animated Playing Cards (Read Below)
-      </a> 
-      by 
-      <a href="https://sketchfab.com/Tycho_Magnetic_Anomaly?utm_medium=embed&utm_campaign=share-popup&utm_content=76be59774ffe4576a36c1b6a5399b3fe" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">
-        Tycho Magnetic Anomaly
-      </a> 
-      on 
-      <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=76be59774ffe4576a36c1b6a5399b3fe" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">
-        Sketchfab
-      </a>
-    </p>
-  </div>
+  <a href="https://sketchfab.com/3d-models/animated-playing-cards-read-below-76be59774ffe4576a36c1b6a5399b3fe?utm_medium=embed&utm_campaign=share-popup&utm_content=76be59774ffe4576a36c1b6a5399b3fe">
+    <img src="https://sketchfab.com/models/76be59774ffe4576a36c1b6a5399b3fe/embed" alt="Animated Playing Cards (Read Below)" width="600" height="400">
+  </a>
 </p>
 
 - 👀 I’m interested in **3D modeling, game development, and animation**
@@ -26,7 +12,6 @@
 - 💞️ I’m looking to collaborate on **game development projects and creative 3D animations**
 - 📫 How to reach me **adisharma1083@gmail.com**
 - 😄 Pronouns: **He/Him**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
