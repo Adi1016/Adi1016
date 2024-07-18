@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm @Adi1016</h1>
 <h3 align="center">A passionate 3D artist and game developer</h3>
 
-<p align="center">
-  <a href="https://sketchfab.com/3d-models/animated-playing-cards-read-below-76be59774ffe4576a36c1b6a5399b3fe?utm_medium=embed&utm_campaign=share-popup&utm_content=76be59774ffe4576a36c1b6a5399b3fe">
-    <img src="https://sketchfab.com/models/76be59774ffe4576a36c1b6a5399b3fe/embed" alt="Animated Playing Cards (Read Below)" width="600" height="400">
-  </a>
-</p>
+<div align="center">
+  <iframe title="Animated Playing Cards (Read Below)" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/76be59774ffe4576a36c1b6a5399b3fe/embed" width="640" height="480"></iframe>
+  <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/3d-models/animated-playing-cards-read-below-76be59774ffe4576a36c1b6a5399b3fe?utm_medium=embed&utm_campaign=share-popup&utm_content=76be59774ffe4576a36c1b6a5399b3fe" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Animated Playing Cards (Read Below)</a> 
+    by 
+    <a href="https://sketchfab.com/Tycho_Magnetic_Anomaly?utm_medium=embed&utm_campaign=share-popup&utm_content=76be59774ffe4576a36c1b6a5399b3fe" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Tycho Magnetic Anomaly</a> 
+    on 
+    <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=76be59774ffe4576a36c1b6a5399b3fe" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+  </p>
+</div>
 
 - 👀 I’m interested in **3D modeling, game development, and animation**
 - 🌱 I’m currently learning **Unity, Blender, and C#**
