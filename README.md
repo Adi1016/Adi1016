@@ -1,6 +1,5 @@
 <h1 align="center">Aditya Sharma</h1>
 <h3 align="center">Game Developer • Full Stack Developer • 3D Artist</h3>
----
 
 ## About Me
 
