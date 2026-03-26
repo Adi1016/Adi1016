@@ -12,13 +12,13 @@
 ## About Me
 
 I build interactive digital experiences across games, web platforms, and mobile applications.
-My focus is on creating systems that are not only functional, but scalable, engaging, and thoughtfully designed.
+My focus is on creating systems that are scalable, engaging, and performance-driven.
 
 * Developing games using Unity and C#
-* Building full stack web applications (frontend and backend)
-* Creating mobile-ready and responsive solutions
-* Designing 3D assets, environments, and animations
-* Exploring system design, engine architecture, and performance optimization
+* Building full stack web applications
+* Creating mobile-ready applications
+* Designing 3D assets and environments
+* Exploring system design and engine architecture
 
 ---
 
@@ -46,10 +46,10 @@ My focus is on creating systems that are not only functional, but scalable, enga
 
 ## Current Focus
 
-* Building a custom game engine (learning and experimentation phase)
-* Developing educational and experimental games
-* Working on freelance web development projects with international clients
-* Expanding into mobile-first application development
+* Building a custom game engine
+* Developing experimental and educational games
+* Working on freelance web projects
+* Expanding into mobile applications
 
 ---
 
@@ -58,9 +58,6 @@ My focus is on creating systems that are not only functional, but scalable, enga
 <p align="center">
 <a href="https://linkedin.com/in/your-link" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://github.com/adi1016" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 <a href="mailto:adisharma1083@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40" />
@@ -73,7 +70,6 @@ My focus is on creating systems that are not only functional, but scalable, enga
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adi1016&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adi1016&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -84,4 +80,4 @@ My focus is on creating systems that are not only functional, but scalable, enga
 
 ## Philosophy
 
-"I don’t just write code — I build experiences."
+"I build systems, not just projects."
