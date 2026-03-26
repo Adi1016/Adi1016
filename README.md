@@ -48,7 +48,7 @@ My focus is on creating systems that are not only functional, but scalable, enga
 ## Connect
 
 <p align="center">
-<a href="https://linkedin.com/in/your-link" target="_blank">
+<a href="https://www.linkedin.com/in/aditya-sharma-4422932bb/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="https://github.com/adi1016" target="_blank">
@@ -64,13 +64,9 @@ My focus is on creating systems that are not only functional, but scalable, enga
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adi1016&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adi1016&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adi1016&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
